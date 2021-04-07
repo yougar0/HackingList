@@ -17,6 +17,7 @@ Golang安全资源合集
 - [xorm](https://github.com/go-xorm/xorm) - Go语言实现的ORM库，支持多种数据库
 - [nali](https://github.com/zu1k/nali) - 一个查询IP地理信息和CDN服务提供商的离线终端工具
 - [xsec-ip-database](https://github.com/netxfly/xsec-ip-database) - Go语言实现的恶意IP和域名库
+- [email-verifier](https://github.com/AfterShip/email-verifier) - Go版本的邮箱验证库，不需要发送邮件即可验证
 
 ## 代码安全
 

@@ -25,6 +25,7 @@ C#安全资源合集
 - [SharpWeb](https://github.com/djhohnstein/SharpWeb) - 从谷歌,火狐,IE和Microsoft Edge提取登录过的网站信息，包括cookie和历史浏览记录
 - [SharpClipboard](https://github.com/slyd0g/SharpClipboard) - 获取剪贴板内容的工具，也可用于cobalt strike中使用
 - [ListRDPConnections](https://github.com/Heart-Sky/ListRDPConnections) - 读取本机对外RDP连接记录和其他主机对该主机的连接记录，从而在内网渗透中获取更多可通内网网段信息以及定位运维管理人员主机
+- [SharpView](https://github.com/tevora-threat/SharpView) - C#版本的PowerView
 
 
 ## 密码解密
