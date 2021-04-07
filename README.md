@@ -4,7 +4,8 @@
 
 ## 资源
 
-- [Golang相关源码](Hacking-With-Golang.md)
+- [Golang](Hacking-With-Golang.md)
+- [C#](Hacking-With-C#.md)
 
 ## 未来计划
 

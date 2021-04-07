@@ -16,45 +16,27 @@ Golang安全资源合集
 - [gopacket](https://github.com/google/gopacket) - Go语言用于处理网络数据包的库
 - [xorm](https://github.com/go-xorm/xorm) - Go语言实现的ORM库，支持多种数据库
 - [nali](https://github.com/zu1k/nali) - 一个查询IP地理信息和CDN服务提供商的离线终端工具
+- [xsec-ip-database](https://github.com/netxfly/xsec-ip-database) - Go语言实现的恶意IP和域名库
 
 ## 代码安全
 
 - [Go-SCP](https://github.com/Checkmarx/Go-SCP) - Go语言安全编码实践指南
 - [gosec](https://github.com/securego/gosec) - Go语言源码安全分析工具
 - [gotools](https://github.com/felberj/gotools) - 用于逆向Golang二进制文件的Ghidra插件
-- [gobfuscate](https://github.com/unixpickle/gobfuscate) - 一款针对Go二进制和包的混淆工具
 
 ## 安全工具
 
 - [ssrfuzz](https://github.com/ryandamour/ssrfuzz) - ssrf fuzz工具
 - [certigo](https://github.com/square/certigo) - Go语言编写用于检查/验证证书信息的命令行工具
 - [Blind-SQL-Injector](https://github.com/Releasel0ck/Blind-SQL-Injector) - Go语言编写的手工盲注辅助工具
-- [chashell](https://github.com/sysdream/chashell) -  Go语言编写通过DNS进行通信的反向Shell
-- [judas](https://github.com/JonCooperWorks/judas) - Go语言编写的反向钓鱼工具
-- [Modlishka](https://github.com/drk1wi/Modlishka) - Go语言编写的反向代理钓鱼工具
-- [Gophish](https://github.com/gophish/gophish) - Go语言编写的开源钓鱼框架
 - [goHackTools](https://github.com/dreddsa5dies/goHackTools) - Go语言编写的黑客工具集
-- [xsec-checker](https://github.com/netxfly/sec_check) - Go语言编写的服务器安全检测辅助工具
-- [janusec](https://github.com/Janusec/janusec) - Golang打造的开源WAF网关
-- [xsec-ip-database](https://github.com/netxfly/xsec-ip-database) - Go语言实现的恶意IP和域名库
 - [xsec-traffic](https://github.com/netxfly/xsec-traffic) - Go语言编写的轻量级恶意流量分析程序
 - [GoCrack](https://github.com/fireeye/gocrack) - Go语言编写密码爆破平台
 - [Kunpeng](https://github.com/opensec-cn/kunpeng) - 一个Golang编写的开源POC检测框架
 - [AssassinGo](https://github.com/AmyangXYZ/AssassinGo) - 基于Go的高并发可拓展式Web渗透框架
-- [muraena](https://github.com/muraenateam/muraena) - 反向代理自动化钓鱼工具
-- [ruse](https://github.com/e3prom/ruse) - 适用于Red Team基础架构的反向代理
-- [hershell](https://github.com/lesnuages/hershell) - 跨平台反弹Shell生成工具
-- [golang_c2](https://github.com/prsecurity/golang_c2) - Go语言编写的C2服务器
-- [GTRS](https://github.com/mthbernardes/GTRS) - 通过Google Translator做为代理发送远程控制命令的C2服务器
-- [merlin](https://github.com/Ne0nd0g/merlin) - Golang跨平台C2
-- [Modlishka](https://github.com/drk1wi/Modlishka) - 反向代理钓鱼工具，支持2FA
 - [gdrive](https://github.com/gdrive-org/gdrive) - Google Drive CLI客户端
-- [shhgit](https://github.com/eth0izzle/shhgit) - 实时的Github敏感信息监控
 - [pspy](https://github.com/DominicBreuker/pspy) - 在没有root权限的情况下监控linux进程
-- [sliver](https://github.com/BishopFox/sliver) - 跨平台C2框架
 - [subjack](https://github.com/haccer/subjack) - Subdomain Takeover扫描识别
-- [raven](https://github.com/0x09AL/raven) - Linkedin信息收集工具
-- [phishery](https://github.com/ryhanson/phishery) - Word文档钓鱼工具
 - [Gorsair](https://github.com/Ullaakut/Gorsair) - Docker API利用
 
 
@@ -108,13 +90,15 @@ Golang安全资源合集
 - [skydive](https://github.com/skydive-project/skydive) - 网络拓扑和协议分析工具
 - [mole](https://github.com/davrodpin/mole) - SSH隧道
 - [clash](https://github.com/Dreamacro/clash.git) - 基于规则的隧道工具,支持身份认证
+- [ruse](https://github.com/e3prom/ruse) - 适用于Red Team基础架构的反向代理
 
-## 免杀
+## 免杀&混淆
 
 - [go-packer](https://github.com/wonderkun/go-packer) - 打包二进制进行免杀
 - [ScareCrow](https://github.com/optiv/ScareCrow.git) - 绕过EDR检测的免杀框架
 - [go-shellcode](https://github.com/brimstone/go-shellcode) - Go语言编写的ShellCode执行工具
 - [bypassAV](https://github.com/pureqh/bypassAV.git) - 免杀shellcode加载器
+- [gobfuscate](https://github.com/unixpickle/gobfuscate) - 一款针对Go二进制和包的混淆工具
 
 ## 内网渗透
 
@@ -138,6 +122,12 @@ Golang安全资源合集
 - [CHAOS](https://github.com/tiagorlampert/CHAOS) - Go语言编写的Windows远控工具
 - [lonely-shell](https://github.com/danielan/lonely-shell) - Go语言实现的反弹Shell后门
 - [hershell](https://github.com/sysdream/hershell) -  Go语言反弹Shell后门
+- [chashell](https://github.com/sysdream/chashell) -  Go语言编写通过DNS进行通信的反向Shell
+- [golang_c2](https://github.com/prsecurity/golang_c2) - Go语言编写的C2服务器
+- [GTRS](https://github.com/mthbernardes/GTRS) - 通过Google Translator做为代理发送远程控制命令的C2服务器
+- [merlin](https://github.com/Ne0nd0g/merlin) - Golang跨平台C2
+- [hershell](https://github.com/lesnuages/hershell) - 跨平台反弹Shell生成工具
+- [sliver](https://github.com/BishopFox/sliver) - 跨平台C2框架
 
 ## 漏洞利用
 
@@ -155,15 +145,29 @@ Golang安全资源合集
 - [scilla](https://github.com/edoardottt/scilla) - 子域名、端口、目录枚举
 - [kscan](https://github.com/lcvvvv/kscan) - 轻量级的资产扫描探测工具
 - [ksubdomain](https://github.com/knownsec/ksubdomain) - 无状态子域名爆破工具
+- [raven](https://github.com/0x09AL/raven) - Linkedin信息收集工具
+
+## 钓鱼
+
+- [judas](https://github.com/JonCooperWorks/judas) - Go语言编写的反向钓鱼工具
+- [Modlishka](https://github.com/drk1wi/Modlishka) - Go语言编写的反向代理钓鱼工具
+- [Gophish](https://github.com/gophish/gophish) - Go语言编写的开源钓鱼框架
+- [muraena](https://github.com/muraenateam/muraena) - 反向代理自动化钓鱼工具
+- [Modlishka](https://github.com/drk1wi/Modlishka) - 反向代理钓鱼工具，支持2FA
+- [phishery](https://github.com/ryhanson/phishery) - Word文档钓鱼工具
 
 ## 蜜罐
 - [rogue_mysql_server](https://github.com/rmb122/rogue_mysql_server) - 一个支持 go, php, python, java, 原生命令行等多种语言下客户端的 mysql 恶意服务器
 - [honeybits](https://github.com/0x4D31/honeybits) - 一款Go语言开发的蜜罐
 
+
 ## 安全防御加固
 
 - [whids](https://github.com/0xrawsec/whids) - go版本的windows日志收集工具
 - [asset-scan](https://github.com/ATpiu/asset-scan) - asset-scan是一款适用甲方企业的外网资产周期性扫描监控系统
+- [janusec](https://github.com/Janusec/janusec) - Golang打造的开源WAF网关
+- [xsec-checker](https://github.com/netxfly/sec_check) - Go语言编写的服务器安全检测辅助工具
+- [shhgit](https://github.com/eth0izzle/shhgit) - 实时的Github敏感信息监控
 
 ## CTF相关
 
