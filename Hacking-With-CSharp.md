@@ -70,5 +70,6 @@ C#安全资源合集
 - [HttpCode.Core](https://github.com/stulzq/HttpCode.Core) - 简单、易用、高效 一个有态度的开源.Net Http请求框架!可以用制作爬虫，api请求等等
 - [MinHook.NET](https://github.com/CCob/MinHook.NET) - C#版本的代码Hook库
 - [dotnet_coreclr](https://github.com/steveharter/dotnet_coreclr) - C# CLR库
+- [Files](https://github.com/files-community/Files) - C#文件浏览器 界面超级好看
 
 

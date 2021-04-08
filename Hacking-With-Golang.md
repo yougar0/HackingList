@@ -140,6 +140,7 @@ Golang安全资源合集
 ## 内网信息收集
 
 - [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - 全平台浏览器数据解密,支持passwords/cookies/history/bookmarks
+- [SecretScanner](https://github.com/deepfence/SecretScanner) - 全平台文件内容敏感数据搜索工具（快速找密码本）
 
 ## 信息收集
 
@@ -166,14 +167,17 @@ Golang安全资源合集
 - [rogue_mysql_server](https://github.com/rmb122/rogue_mysql_server) - 一个支持 go, php, python, java原生命令行等多种语言下客户端的 mysql 恶意服务器
 - [honeybits](https://github.com/0x4D31/honeybits) - 一款Go语言开发的蜜罐
 
+## 安全平台
+
+- [DNSlog-GO](https://github.com/lanyi1998/DNSlog-GO) - DNSLog-GO 是一款golang编写的监控 DNS 解析记录的工具，自带WEB界面
+- [shhgit](https://github.com/eth0izzle/shhgit) - 实时的Github敏感信息监控
+- [asset-scan](https://github.com/ATpiu/asset-scan) - asset-scan是一款适用甲方企业的外网资产周期性扫描监控系统
 
 ## 安全防御加固
 
 - [whids](https://github.com/0xrawsec/whids) - go版本的windows日志收集工具
-- [asset-scan](https://github.com/ATpiu/asset-scan) - asset-scan是一款适用甲方企业的外网资产周期性扫描监控系统
 - [janusec](https://github.com/Janusec/janusec) - Golang打造的开源WAF网关
 - [xsec-checker](https://github.com/netxfly/sec_check) - Go语言编写的服务器安全检测辅助工具
-- [shhgit](https://github.com/eth0izzle/shhgit) - 实时的Github敏感信息监控
 
 ## CTF相关
 
