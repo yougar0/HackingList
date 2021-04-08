@@ -153,6 +153,7 @@ Golang安全资源合集
 - [kscan](https://github.com/lcvvvv/kscan) - 轻量级的资产扫描探测工具
 - [ksubdomain](https://github.com/knownsec/ksubdomain) - 无状态子域名爆破工具
 - [raven](https://github.com/0x09AL/raven) - Linkedin信息收集工具
+- [gitleaks](https://github.com/zricethezav/gitleaks) - github仓库敏感文件、数据泄漏检测
 
 ## 钓鱼
 
