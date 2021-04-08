@@ -9,7 +9,7 @@ Golang安全资源合集
 - [The Little Go Book](https://www.openmymind.net/assets/go/go.pdf) - Google Go语言编程书
 - [book](https://github.com/qyuhen/book) - 雨痕Go 学习笔记
 - [Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go/) - Golang黑客编程
-- [Go-Learning-With-Hack](https://github.com/lazybootsafe/Go-Learning-With-Hack.git) - go语言HackTools开发教程从入门到入狱
+- [Go-Learning-With-Hack](https://github.com/lazybootsafe/Go-Learning-With-Hack) - go语言HackTools开发教程从入门到入狱
 
 ## 库
 
@@ -96,10 +96,11 @@ Golang安全资源合集
 ## 免杀&混淆
 
 - [go-packer](https://github.com/wonderkun/go-packer) - 打包二进制进行免杀
-- [ScareCrow](https://github.com/optiv/ScareCrow.git) - 绕过EDR检测的免杀框架
+- [ScareCrow](https://github.com/optiv/ScareCrow) - 绕过EDR检测的免杀框架
 - [go-shellcode](https://github.com/brimstone/go-shellcode) - Go语言编写的ShellCode执行工具
-- [bypassAV](https://github.com/pureqh/bypassAV.git) - 免杀shellcode加载器
+- [bypassAV](https://github.com/pureqh/bypassAV) - 免杀shellcode加载器
 - [gobfuscate](https://github.com/unixpickle/gobfuscate) - 一款针对Go二进制和包的混淆工具
+- [Limelighter](https://github.com/Tylous/Limelighter) - 伪造程序签名
 
 ## 内网渗透
 
@@ -136,6 +137,10 @@ Golang安全资源合集
 - [fscan](https://github.com/shadow1ng/fscan) - 内网渗透扫描漏洞利用工具
 
 
+## 内网信息收集
+
+- [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - 全平台浏览器数据解密,支持passwords/cookies/history/bookmarks
+
 ## 信息收集
 
 - [gowitness](https://github.com/sensepost/gowitness) - Golang开发使用Chrome Headless实现的网页截图工具
@@ -158,7 +163,7 @@ Golang安全资源合集
 - [phishery](https://github.com/ryhanson/phishery) - Word文档钓鱼工具
 
 ## 蜜罐
-- [rogue_mysql_server](https://github.com/rmb122/rogue_mysql_server) - 一个支持 go, php, python, java, 原生命令行等多种语言下客户端的 mysql 恶意服务器
+- [rogue_mysql_server](https://github.com/rmb122/rogue_mysql_server) - 一个支持 go, php, python, java原生命令行等多种语言下客户端的 mysql 恶意服务器
 - [honeybits](https://github.com/0x4D31/honeybits) - 一款Go语言开发的蜜罐
 
 
