@@ -49,7 +49,7 @@ Golang安全资源合集
 - [vscan-go](https://github.com/RickGray/vscan-go) - go版本nmap基于nmap指纹库
 - [vuls](https://github.com/future-architect/vuls) - Go语言编写的Linux/FreeBSD漏洞扫描器
 - [gryffin](https://github.com/yahoo/gryffin) - 大规模Web安全扫描平台
-- [Gobuster](https://github.com/OJ/gobuster) - Kai下敏感目录扫描工具
+- [Gobuster](https://github.com/OJ/gobuster) - Kali下敏感目录扫描工具
 - [OnionScan](https://github.com/s-rah/onionscan/) - Go语言编写的暗网扫描仪
 - [x-crack](https://github.com/netxfly/x-crack) - Go语言编写的弱口令扫描器
 - [kraken](https://github.com/botherder/kraken) - Go语言编写的YARA跨平台扫描器
@@ -154,6 +154,7 @@ Golang安全资源合集
 - [ksubdomain](https://github.com/knownsec/ksubdomain) - 无状态子域名爆破工具
 - [raven](https://github.com/0x09AL/raven) - Linkedin信息收集工具
 - [gitleaks](https://github.com/zricethezav/gitleaks) - github仓库敏感文件、数据泄漏检测
+- [gowap](https://github.com/unstppbl/gowap) - go版本的Wappalyzer指纹识别
 
 ## 钓鱼
 
