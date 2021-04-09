@@ -116,6 +116,7 @@ Golang安全资源合集
 - [ruler](https://github.com/sensepost/ruler) - 利用Exchange服务进行渗透的工具
 - [ServerScan](https://github.com/Adminisme/ServerScan) - ServerScan一款使用Golang开发的高并发网络扫描、服务探测工具
 - [CDK](https://github.com/cdk-team/CDK) - CDK是一款为容器环境定制的渗透测试工具，在已攻陷的容器内部提供零依赖的常用命令及PoC/EXP。集成Docker/K8s场景特有的 逃逸、横向移动、持久化利用方式，插件化管理
+- [kubesploit](https://github.com/cyberark/kubesploit) - 针对容器环境的渗透测试工具
 
 
 ## 远程控制&后门
