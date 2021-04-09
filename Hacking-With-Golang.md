@@ -141,7 +141,7 @@ Golang安全资源合集
 ## 内网信息收集
 
 - [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - 全平台浏览器数据解密,支持passwords/cookies/history/bookmarks
-- [SecretScanner](https://github.com/deepfence/SecretScanner) - 全平台文件内容敏感数据搜索工具（快速找密码本）
+- [SecretScanner](https://github.com/deepfence/SecretScanner) - 全平台文件内容敏感数据搜索工具
 
 ## 信息收集
 

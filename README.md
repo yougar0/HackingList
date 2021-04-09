@@ -6,6 +6,7 @@
 
 - [Golang](Hacking-With-Golang.md)
 - [C#](Hacking-With-CSharp.md)
+- [Python](Hacking-With-Python.md)
 
 ## 未来计划
 
