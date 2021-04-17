@@ -71,5 +71,6 @@ C#安全资源合集
 - [MinHook.NET](https://github.com/CCob/MinHook.NET) - C#版本的代码Hook库
 - [dotnet_coreclr](https://github.com/steveharter/dotnet_coreclr) - C# CLR库
 - [Files](https://github.com/files-community/Files) - C#文件浏览器 界面超级好看
+- [COFFLoader](https://github.com/trustedsec/COFFLoader) - COFF加载器，CS BOF的加载器
 
 
